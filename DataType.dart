@@ -26,4 +26,11 @@ void main(){
 
   print(isValid);
   print(orNot);
+
+
+  /*
+  Note : All data type in dart are object
+  Threfore their initial value is by default null
+
+  */
 }
