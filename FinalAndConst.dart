@@ -7,4 +7,9 @@ print(a);
 const abc = "wah";
 print(abc);
 print(abc);
+print(Abc.abc);
+}
+class Abc{
+  static const abc = "abg";
+  final abcd = "ahfjgkjg";
 }
