@@ -11,5 +11,12 @@ void main(){
       print(i);
     }
   }
+List planetList = ['mercury','earth','pluto','mars'];
+  //for each loop
+  for(String planet in planetList){
+    print(planet);
+  }
+
+
 
 }
