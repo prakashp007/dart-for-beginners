@@ -34,7 +34,7 @@ print(smallNumber);
     //If expr1 is non null returns its value otherwise evalutes 
     // and return the value exp2
 
-      String name = null;
+      String name = "";
 
       String nameToPrint = name?? "hello";
       print(nameToPrint);
